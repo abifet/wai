@@ -1,7 +1,7 @@
 ---
 name: Albert Bifet
 position: Professor (Head)
-image_path: images/AlbertBifet.jpg
+image_path: /images/AlbertBifet.jpg
 twitter_username: abifet
 blurb: >-
   Albert Bifet is Professor at the Machine Learning Group at University of
