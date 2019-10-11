@@ -1,6 +1,10 @@
-- name: Blog
+- name: News
   link: /blog/
-- name: About
+- name: Software
+  link: /software/
+- name: Team
   link: /about/
+- name: Publications
+  link: /publications/
 - name: Contact
   link: /contact/

@@ -1,8 +1,8 @@
 ---
 name: Albert Bifet
 position: Professor (Head)
-image_path: /images/Albert Bifet.jpg
-twitter_username: CloudCannon
+image_path: images/AlbertBifet.jpg
+twitter_username: abifet
 blurb: >-
   Albert Bifet is Professor at the Machine Learning Group at University of
   Waikato. He is the Lead Researcher for the "Realtime Analytics of Big Data"
