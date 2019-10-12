@@ -1,6 +1,6 @@
 ---
 name: Albert Bifet
-position: Professor (Head)
+position: Professor 
 image_path: /images/Albert_Bifet.jpg
 twitter_username: abifet
 blurb: >-
