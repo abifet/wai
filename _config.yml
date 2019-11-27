@@ -39,12 +39,11 @@ exclude:
   - LICENCE
 
 collections:
+  associate_members:
   staff_members:
     _hide_content: true
     _icon: account_circle
-  associate_members:
-    _hide_content: true
-    _icon: account_circle
+
 
 paginate: 10
 paginate_path: "/blog/:num/"
