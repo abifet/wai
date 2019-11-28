@@ -1,7 +1,7 @@
 ---
-name: Geoff Holmes
+name: Eibe Frank
 position: Professor
-image_path: /images/geoff.jpg
+image_path: /images/eibe.jpg
 twitter_username:
 blurb:
 ---
