@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: ADAPTIVE AI LAB
+title: MOA LAB
 url: "https://abifet.github.io/wai/"
 baseurl:
 google_analytics_key:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Adaptive AI Lab.
+description: MOA Lab.
 author:
   name:
   email:
   twitter: abifet # twitter username without the @ symbol
   social:
-  name: Adaptive AI LAB
+  name: MOA LAB
 
 # -----
 # Build
